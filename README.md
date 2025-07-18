@@ -1,7 +1,7 @@
 ## 🧑‍💻 Ola prazer imenso, me chamo Rafael Torres!
 
 Desenvolvedor em progresso para o mercado de trabalho, dedicado e comprometido para o êxito das funções comprometidas.
-Tenho focado meus estudos em **Python** e **PowerWi**, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise de Dados.
+Tenho focado meus estudos em **Python** e **PowerBI**, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise de Dados.
 
 ---
 
