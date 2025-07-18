@@ -16,6 +16,6 @@ Tenho focado meus estudos em **Python** e **PowerWi**, com o objetivo de transfo
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmoubr-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmoubr-dev&layout=compact&theme=radical" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmoubr&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmoubr&layout=compact&theme=radical" alt="Top Langs" width="40%" />
 </div>
