@@ -25,9 +25,7 @@ Sou um profissional focado em transformar dados brutos em inteligência de negó
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=dark)](https://git.io/streak-stats)
 
 ---
 
