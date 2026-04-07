@@ -17,7 +17,7 @@ Sou um profissional focado em transformar dados brutos em inteligência de negó
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **Previsão de Burnout** | Python, Scikit-learn | Modelo de ML para identificar sinais de estresse ocupacional. |
+| **Previsão de Burnout** | Python, Scikit-learn | Modelo de ML para identificar sinais de estresse ocupacional com regressão. |
 | **Finance Dashboard** | Power BI, SQL | Dashboard financeiro completo com análise de fluxo de caixa e KPIs de performance. |
 | **EDA Booking Demand** | Python, EDA | Análise Exploratória de Dados com insgihts sobre reservas sazonais e cancelamento. |
 
@@ -25,10 +25,9 @@ Sou um profissional focado em transformar dados brutos em inteligência de negó
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical)
 
 ---
 
