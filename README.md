@@ -6,8 +6,8 @@ Sou um profissional focado em transformar dados brutos em inteligência de negó
 
 ## 🛠️ Minha Stack Técnica
 
-* **Linguagens & Manipulação:** Python (Pandas, Scikit-learn, FastAPI), SQL (MySQL).
-* **Visualização de Dados:** Power BI (DAX avançado, Power Query).
+* **Linguagens & Manipulação:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn), SQL (MySQL, PostgreeSQL).
+* **Visualização de Dados:** Power BI (DAX avançado, Power Query) Salesforce (Relatórios e Dashboards).
 * **Design de Interface (UI):** Figma (Design de backgrounds e layouts para dashboards).
 * **Metodologias:** ETL, Modelagem de Dados (Star Schema), Análise Exploratória (EDA).
 
