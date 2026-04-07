@@ -31,6 +31,6 @@ Sou um profissional focado em transformar dados brutos em inteligência de negó
 
 ## 📫 Network
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/rafael-torres-vince-nascimento-a2283b217/]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/rafael-torres-a2283b217/]
 
 ---
