@@ -1,4 +1,4 @@
-### Cientista de Dados Junior | Bacharel em Ciência da Computação
+### Analista de Dados Junior | Bacharel em Ciência da Computação
 
 Sou um profissional focado em transformar dados brutos em inteligência de negócio. Unindo o rigor técnico da Ciência da Computação com uma visão analítica, desenvolvo soluções que vão desde a limpeza e modelagem de dados até a criação de dashboards de alto impacto visual e modelos preditivos com Machine Learning.
 
